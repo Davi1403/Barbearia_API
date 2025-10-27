@@ -1,0 +1,5 @@
+DROP TABLE cliente CASCADE;
+DROP TABLE barbeiro CASCADE;
+DROP TABLE agendamento CASCADE;
+DROP TABLE servico CASCADE;
+DROP TABLE agendamentoservico CASCADE;

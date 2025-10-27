@@ -1,0 +1,5 @@
+\i insert_cliente.sql
+\i insert_barbeiro.sql
+\i insert_servico.sql
+\i insert_agendamento.sql
+\i insert_agendamentoservico.sql
